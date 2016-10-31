@@ -14,7 +14,7 @@
 1. Clone this repository (or download CAD files).
 2. Open in [123D Design](http://www.123dapp.com/design).
 3. Export models as STL format and print them.
-4. Assemble with an egg :egg: (see [Fabble](http://fabble.cc/tailriver/yotsubachi)).
+4. Assemble with an egg (see [Fabble](http://fabble.cc/tailriver/yotsubachi)).
 5. Drop and check. :hatching_chick:
 
 ## Reference result
@@ -24,7 +24,7 @@
 - Cone: `sentan/cone_simple.123dx`
 - Body: `hontai.123dx`
 - Wing: `hane.122dx` x4
-- Rod: `square_rods.123dx` x2
+- Rod: `square_rod.123dx` x2
 
 ## License
 
